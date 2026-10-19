@@ -2,9 +2,6 @@
 
 **Student Name:** ADITYA RAJ  
 **Roll Number:** 2401MC56  
-**Course:** Operating Systems Laboratory (CS342 / MA3104)  
-**Institution:** Indian Institute of Technology Patna  
-**Academic Year:** 2026–2027  
 
 ---
 
@@ -142,4 +139,4 @@ $ lazytest
 ## 👤 Author
 - **Name:** ADITYA RAJ
 - **Roll No:** 2401MC56
-- **Department:** Computer Science & Engineering, IIT Patna
+
